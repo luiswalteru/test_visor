@@ -1,0 +1,8 @@
+Delete file list:
+- PR_4.txt
+- PR_3.txt
+- PR_2.txt
+- con_rama.txt
+- con_feature.txt
+- APROBAR_PR.txt
+- PARA_PULL_REQUEST.txt
