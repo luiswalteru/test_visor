@@ -10,3 +10,4 @@ Delete file list:
 
 lista:
 aaa
+bbb
