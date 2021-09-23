@@ -6,3 +6,7 @@ Delete file list:
 - con_feature.txt
 - APROBAR_PR.txt
 - PARA_PULL_REQUEST.txt
+
+
+lista:
+aaa
